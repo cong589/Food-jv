@@ -1,5 +1,6 @@
 package control.ajax;
 
+import Constrant.ConfigVNPay;
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import java.io.IOException;import java.net.URLEncoder;

@@ -1,6 +1,8 @@
 package control.product;
 
+import dao.DAO;
 import dao.ReviewDB;
+import entity.Review;
 import entity.User;
 import utils.CheckPermission;
 

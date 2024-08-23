@@ -1,6 +1,10 @@
 package control.ajax;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import dao.ChatRoomDB;
+import dao.MessageDB;
+import entity.ChatRoom;
+import entity.Message;
 
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;

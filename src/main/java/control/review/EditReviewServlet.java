@@ -1,6 +1,7 @@
 package control.review;
 
 import dao.ReviewDB;
+import entity.Review;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

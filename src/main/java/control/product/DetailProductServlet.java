@@ -1,9 +1,11 @@
 package control.product;
 
+import dao.DAO;
 import dao.ProductDB;
 import dao.ProductTypeDB;
 import dao.ReviewDB;
 import entity.Product;
+import entity.Review;
 import entity.TypeProduct;
 import entity.User;
 
